@@ -1,0 +1,1 @@
+fun main() = readLine()!!.toInt().run { println(if (this > 0) "YES" else "NO") }

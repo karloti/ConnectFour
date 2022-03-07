@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Connect Four/task/build/
+/Connect Four/task/out/
+/Connect Four/task/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Debugging techniques/Log events/out/
+/Topics/Debugging techniques/Log events/out/production/classes/

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Connect Four/task" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Connect Four/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Assertion" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Best practices" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Development approach" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Find the error" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Log events" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Proper tools" />
+            <option value="$PROJECT_DIR$/Topics/Debugging techniques/Theory" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Knights" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Leap year" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Positive, Negative or Zero" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Queens" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Statements about brackets in if" />
+            <option value="$PROJECT_DIR$/Topics/If expression/The max of three numbers" />
+            <option value="$PROJECT_DIR$/Topics/If expression/The max of two numbers without else-branch" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
